@@ -1,4 +1,4 @@
-# Similar to Array#inject but also previous element in a block
+# Similar to Array#inject but gives you access also to the previous element of the enumerable
 #
 # Usage:
 #
