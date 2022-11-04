@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "dist", // Where to put the TS files
+    "target": "ES6", // which level of JS support to get
+  },
+  "include": ["src"] // which files to compile
+}
